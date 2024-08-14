@@ -1,2 +1,4 @@
 # Youtube-Downloader
-Download any youtube video.
+Very easy and simple youtube downloader script.
+
+WARNING: I DO NOT CONDONE DOWNLOAD COPYWRITTEN MATERIAL. THIS IS FOR EDUCATIONAL AND SHOWCASE PURPOSES ONLY!
